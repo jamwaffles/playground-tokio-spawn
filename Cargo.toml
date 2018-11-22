@@ -1,0 +1,9 @@
+[package]
+name = "playground-tokio"
+version = "0.1.0"
+authors = ["James Waples <james@wapl.es>"]
+
+[dependencies]
+tokio = "0.1.13"
+futures = "0.1.25"
+actix-web = "0.7.14"
